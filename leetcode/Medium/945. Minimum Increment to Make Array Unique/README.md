@@ -1,6 +1,3 @@
-# Difficulty
-	Medium
-	
 # Topics
 	Array
 	Greedy
